@@ -70,5 +70,14 @@ module.exports = [
     social_media: 'https://www.linkedin.com/in/ryanakbar20/',
     tech_stack: ['react', 'react-native', 'nodejs', 'mongodb'],
     hired: false
+  },
+  {
+    name: 'Ahmad Fadilah',
+    status: 'Fulltime',
+    role: 'Software Engineer',
+    location: 'Jakarta',
+    social_media: 'https://www.linkedin.com/in/ahmad-fadilah-1b479a117/',
+    tech_stack: ['golang', 'kotlin', 'mysql'],
+    hired: false
   }
 ];
